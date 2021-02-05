@@ -1,3 +1,4 @@
 Den con khi cung hieu lenh git
 add: dang ky thay doi trong index
 commit: chap nhan thay thoi
+brach: tao nhanh moi trong repo
